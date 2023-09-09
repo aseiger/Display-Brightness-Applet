@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "plugin.h": "c",
+        "fm.h": "c"
+    }
+}
